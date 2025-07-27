@@ -1,4 +1,4 @@
-# Steps to deploy Credit Card Fraud Detection Project
+# Developed a LightGBM-based fraud detection model, achieving 0.92 F1-score on imbalanced data, deployed on AWS SageMaker with Tableau dashboards
 
 ## Introduction
 This guide details downloading the Kaggle Credit Card Fraud Detection dataset, setting up GitHub Codespace, running the fraud detection project with LightGBM, deploying on AWS SageMaker, and visualizing insights in Tableau. It includes code files: `fraud_detection.py`, `inference.py`, `deploy_sagemaker.py`, and `test_endpoint.py`.
